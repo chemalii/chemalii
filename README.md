@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Chemali!
-🔭 You can see the work I've done on my [Website](https://chemali.de).
+🔭 You can try some of my work on my [Website](https://chemali.de).
 
 ### 👨‍💻 I've worked with:
 -  [LinguaGPT](https://linguagpt.com)
