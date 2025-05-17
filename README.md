@@ -1,7 +1,7 @@
-# 👋 Hello and Welcome to BARMEJ!
-🔭 You can try some of our work on our [Website](https://chemali.de).
+# 👋 Hello and Welcome to Chemali Technologies!
+🔭 You can try some of my work on my [Website](https://chemali.de).
 
-### 👨‍💻 We've worked with:
+### 👨‍💻 I've worked with:
 -  [LinguaGPT](https://linguagpt.com)
 -  [M&M Fahrschule](https://mundmfahrschule.de)
 
