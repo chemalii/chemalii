@@ -1,4 +1,4 @@
-# 👋 Hello and Welcome to Chemali Technologies!
+# 👋 Hello, I'm Sami Chemali!
 🔭 You can try some of my work on my [Website](https://chemali.de).
 
 ### 👨‍💻 I've worked with:
