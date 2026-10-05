@@ -4,6 +4,8 @@
 ### 👨‍💻 I've worked with:
 -  [LinguaGPT](https://linguagpt.com)
 -  [M&M Fahrschule](https://mundmfahrschule.de)
+-  [VERBI](https://www.maxqda.com/de/)
+-  [YOL BERLIN](https://yol-berlin.org)
 
 
 # 💻 Can work with:
